@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel</h1>
 <h3 align="center">I am a ReactJS Developer and a WordPress Developer</h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&locale=en" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&locale=en" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical)
 
