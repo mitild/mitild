@@ -4,8 +4,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&locale=en" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical)
-
 - 🔭 I’m currently working on [Wottu - Wottu watch next?](https://wottu.estudiohoyt.com/)
 
 - 🌱 I’m currently learning **React Native**
