@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel</h1>
 <h3 align="center">I am a ReactJS Developer and a WordPress Developer</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical)
+
 - 🔭 I’m currently working on [Wottu - Wottu watch next?](https://wottu.estudiohoyt.com/)
 
 - 🌱 I’m currently learning **React Native**
@@ -30,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" alt="mitild" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&locale=en" alt="mitild" /></p>
-
