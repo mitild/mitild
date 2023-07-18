@@ -1,9 +1,10 @@
+[readdme-test](https://github.com/mitild/mitild/assets/80648694/c7e35cef-deb0-4267-8237-3d728daae9e2)
 ### Hi there 👋
 
 <!--
 **mitild/mitild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ed:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
