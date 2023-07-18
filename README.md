@@ -4,20 +4,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
-- 🔭 I’m currently working on [Wottu - Wottu watch next?](https://wottu.estudiohoyt.com/)
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/estudiohoyt](https://www.behance.net/estudiohoyt)
-
-- 💬 Ask me about **React, Wordpress, CSS & Design**
-
-- 📫 How to reach me **mitild82@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jmldomaica/](https://www.linkedin.com/in/jmldomaica/)
-
-- ⚡ Fun fact **I think CSS is fun 🫣**
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -34,6 +20,21 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+<br/>
+
+- 🔭 I’m currently working on [Wottu - Wottu watch next?](https://wottu.estudiohoyt.com/)
+
+- 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://www.behance.net/estudiohoyt](https://www.behance.net/estudiohoyt)
+
+- 💬 Ask me about **React, Wordpress, CSS & Design**
+
+- 📫 How to reach me **mitild82@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/jmldomaica/](https://www.linkedin.com/in/jmldomaica/)
+
+- ⚡ Fun fact **I think CSS is fun 🫣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
