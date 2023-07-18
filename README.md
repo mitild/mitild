@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Juan Manuel</h1>
-<h3 align="center">I am a ReactJS Developer and a WordPress Developer</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I am Juan Manuel, a ReactJS Developer and a WordPress Developer</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
-<div height="100px"></div>
+<hr />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
