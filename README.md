@@ -3,8 +3,8 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am Juan Manuel, a ReactJS Developer and a WordPress Developer</h3>
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
 <h3 align="center" width="100%" >----------------------------------------</h3>
 
@@ -42,11 +42,11 @@
 
 - ⚡ Fun fact **I think CSS is fun 🫣**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jmldomaica/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jmldomaica/" width="100" /></a>
 <a href="https://www.behance.net/https://www.behance.net/estudiohoyt" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="https://www.behance.net/estudiohoyt" width="100" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mitild"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mitild" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mitild"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mitild" /></a></p><br><br>
