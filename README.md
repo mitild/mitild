@@ -4,9 +4,7 @@
 <h3 align="center">I am Juan Manuel, a ReactJS Developer and a WordPress Developer</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
-<img align="left" width="47%" background-color="#000000" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
-
-<h3 align="center">----------------------------------------</h3>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
 <h3 align="center">My Stack 🦾</h3>
 
