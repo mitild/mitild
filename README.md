@@ -5,7 +5,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
-<hr align="center" color="black" width="100vw" />
+<hr align="center" color="black" width="10%" />
 
 <h3 align="center">My Stack 🦾</h3>
 
