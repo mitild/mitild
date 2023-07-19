@@ -5,6 +5,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
+<hr align="center" color="black" width="0%" />
+
 <h3 align="center">My Stack 🦾</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
