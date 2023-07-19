@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/estudiohoyt](https://www.behance.net/estudiohoyt)
+- 👨‍💻 All of my design projects are available at [https://www.behance.net/estudiohoyt](https://www.behance.net/estudiohoyt)
 
 - 💬 Ask me about **React, Wordpress, CSS & Design**
 
@@ -40,8 +40,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jmldomaica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmldomaica/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/estudiohoyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/estudiohoyt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jmldomaica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jmldomaica/" height="40" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/estudiohoyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/estudiohoyt" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
