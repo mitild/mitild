@@ -1,3 +1,4 @@
+<img align="left" width="47%" src="/readdme-test.jpg" />
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am Juan Manuel, a ReactJS Developer and a WordPress Developer</h3>
 
