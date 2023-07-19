@@ -6,9 +6,9 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mitild&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitild&show_icons=true&locale=en&layout=compact" />
 
-<h3 align="center">----------------------------------------</h3>
+<h3 align="center" width="100%" >----------------------------------------</h3>
 
-<h3 align="left">My Stack 🦾</h3>
+<h3 align="center">My Stack 🦾</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
