@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhcG54Z3NndnFmMTdnN2dmODlmbDVqcDZxNjg4anprNTVnZW1ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" height="270" />
 
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am Juan Manuel, a ReactJS Developer and a WordPress Developer</h3>
